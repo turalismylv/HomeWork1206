@@ -1,0 +1,16 @@
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\Stack.exe
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\Stack.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\ref\Stack.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\bin\Debug\net5.0\Stack.pdb
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.pdb
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1206Customs\Customs\Stack\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
